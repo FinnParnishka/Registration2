@@ -12,6 +12,7 @@
 </head>
 <body>
   <div id="form">
+     <form onsubmit="return false;" >
   	<label>Эл.Почта*</label><br>
 	<input type="email" name="email" required=""><br>
 
@@ -31,6 +32,7 @@
 	</select><br><br>
 
 	<input type="submit" name="ok" id="ok" ></button>
+    </form>
   </div>
 
   <div id="t1">
