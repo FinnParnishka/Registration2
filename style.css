@@ -1,0 +1,133 @@
+body,
+html {
+	margin: 0;
+	background-color: #efefef;
+	font-family: Arial;
+	font-size: 20px;
+	padding-bottom: 300px;
+}
+
+#add {
+	float: left;
+	margin-left:30px;
+}
+
+.addClickShow {
+	width: 75px;
+	text-align: left;
+}
+
+#comingtd {
+	display: none;
+	width: 75px;
+	text-align: center;
+}
+
+#realizetd {
+	display: none;
+	width: 75px;
+	text-align: center;
+}
+
+
+#getValue {
+	display: none;
+}
+
+#okPrivate1{
+	float: left;
+	margin-left:30px;
+	height: 38px;
+	
+
+}
+
+#saveChanges {
+	float: left;
+	height: 37px;
+	position: relative;
+	left: 5px;
+	top: 1px;
+}
+
+
+#form {
+	float: left;
+	margin-left: 50px;
+	margin-top: 25px;
+}
+
+.table1 {
+	text-align: center;
+	margin-left: 30px;
+	border-collapse: collapse;
+	border: 1px solid black;
+}
+
+.table2 {
+	text
+	text-align: left;
+	margin-left: 30px;
+	border-collapse: collapse;
+	border: 1px solid black;
+}
+
+.one {
+	background-color: #cfcfcf;
+	border-bottom:1px solid black;
+	vertical-align:bottom;
+	text-align: center;
+}
+
+.two {
+	background-color: #afafaf;
+	border-bottom:1px solid black;
+	vertical-align:bottom;
+	text-align: center;
+}
+
+#opIstableTD {
+	vertical-align: top;
+	text-align: center;
+}
+
+#input1 {
+	width: 90px;
+	text-align: left;
+}
+
+#input2{
+	vertical-align: top;
+	text-align: center;
+}
+#input3{
+	vertical-align: top;
+	text-align: center;
+}
+.oneHide {
+	background-color: #cfcfcf;
+	border-bottom:1px solid black;
+	display: none;
+	vertical-align:bottom;
+	text-align: center;
+}
+
+.twoHide {
+	background-color: #afafaf;
+	border-bottom:1px solid black;
+	display: none;
+	vertical-align:bottom;
+	text-align: center;
+}
+
+#t1{
+	float: left;
+	margin-left: 350px;
+	margin-top: 20px;
+}
+
+#t2 {
+	display: inline-block;
+	margin-top: 20px;
+	margin-left: 340px;
+	margin-right: 100px;
